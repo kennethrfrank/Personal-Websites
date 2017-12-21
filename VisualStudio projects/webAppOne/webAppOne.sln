@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAppOne", "webAppOne\webAppOne.csproj", "{BAA5758D-3222-4B25-BE3F-CCF1763C82ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAppOne.Tests", "webAppOne.Tests\webAppOne.Tests.csproj", "{1409ED6A-CAD9-421D-A019-36DCEC5BA3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA5758D-3222-4B25-BE3F-CCF1763C82ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA5758D-3222-4B25-BE3F-CCF1763C82ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA5758D-3222-4B25-BE3F-CCF1763C82ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA5758D-3222-4B25-BE3F-CCF1763C82ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1409ED6A-CAD9-421D-A019-36DCEC5BA3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1409ED6A-CAD9-421D-A019-36DCEC5BA3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1409ED6A-CAD9-421D-A019-36DCEC5BA3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1409ED6A-CAD9-421D-A019-36DCEC5BA3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

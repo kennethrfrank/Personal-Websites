@@ -1,0 +1,21 @@
+# Version: 3.4.0.36 (d15-2: d2270eec)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/3.4.0.36/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/3.4.0.36/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	"/output:/Users/kenneth/Documents/Documents - KENNETH’s MacBook Pro/Personal Websites/VisualStudio projects/helloWorld/helloWorld/bin/Debug/" \
+	/name:helloWorld \
+	/profile:Xamarin.Mac \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.12 \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	"/Users/kenneth/Documents/Documents - KENNETH’s MacBook Pro/Personal Websites/VisualStudio projects/helloWorld/helloWorld/bin/Debug/helloWorld.exe" \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	"/Users/kenneth/Documents/Documents - KENNETH’s MacBook Pro/Personal Websites/VisualStudio projects/helloWorld/helloWorld/obj/x86/Debug/mmp-cache" \

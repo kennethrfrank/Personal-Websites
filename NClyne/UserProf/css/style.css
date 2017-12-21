@@ -1,0 +1,102 @@
+#JoyStick{
+	margin-top: 10%;
+	margin-left: 15%;
+	height: 300px;
+}
+	#left,
+	#updown,
+	#right{
+		
+		height: 80px;
+		
+		margin-left: 2%;
+	}
+	#updown{
+		margin-top: 12%;
+		height: 200px;
+		width: 20%;
+	}
+	#left,
+	#right{
+		margin-top: 20%;
+		height: 100px;
+		width: 20%;
+	}
+	#left{
+		margin-left: 17%;
+	}
+		.joyStickButton{
+			height: 80px;
+			width: 80px;
+			border-radius: 35px;
+			border: 1px solid blue;
+			text-align: center;
+			margin-left: 17%;
+		}
+		#leftRight{
+			position: relative;
+			right: 25%;
+			height: 80px;
+
+		}
+
+		#leftButton,
+		#rightButton{
+			
+
+		}
+		#downButton{
+			
+		}
+			.joyStickIcon{
+				margin-top: 30%;
+				font-size: 30px;
+			}
+
+#userInfo{
+	height: 200px;
+}
+
+#userPicture{
+	height: 300px;
+	border: 2px solid black;
+}
+
+#userData{
+	height: 600px;
+}
+
+#statusPosts{
+	height: 600px;
+		border: 2px solid black;
+		
+}
+
+
+
+
+/*General Theming*/
+	.border{
+		border: 2px solid black;
+
+	}
+	.blueBorder{
+		border: 2px solid blue;
+
+	}
+
+
+	.yellowBackground{
+		border: 2px solid red;
+		
+	}
+	.blueBackground{
+		border: 2px solid red;
+	}
+
+	.redBackground{
+		border: 2px solid red;
+	}
+
+	
+	

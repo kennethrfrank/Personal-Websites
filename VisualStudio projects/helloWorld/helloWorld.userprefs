@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="helloWorld/EmptyClass.cs">
+    <Files>
+      <File FileName="helloWorld/AppDelegate.cs" Line="18" Column="22" />
+      <File FileName="helloWorld/EmptyClass.cs" Line="7" Column="10" />
+      <File FileName="helloWorld/index.html" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/kenneth/Documents/Documents - KENNETH’s MacBook Pro/Personal Websites/VisualStudio projects/helloWorld/helloWorld/index.html" relfile="helloWorld/index.html" line="27" column="21" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

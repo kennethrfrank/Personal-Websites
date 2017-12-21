@@ -1,0 +1,64 @@
+.firstImp{
+	height: 130px;
+	
+}
+
+	#logoTL{
+		position: relative;
+		left: 21%;
+	}
+
+	#logo5{
+		font-weight: bold;
+		font-size: 45px;
+		text-align: center;
+		position: relative;
+		top: 20%;
+	}
+	#logoBook{
+		font-weight: bold;
+		font-size: 35px;
+		text-align: center;
+		position: relative;
+		top: 5%;
+	}
+
+	#menu{
+		
+		height: 50%;
+		position: relative;
+		top: 25%;
+	}
+		.bar{
+
+			width: 100%;
+			height: 15%;
+			background-color: black;
+			margin-top: 6px;
+
+
+		}
+
+.navig {
+	height: 70px;
+}
+
+.bookNGal{
+	height: 300px;
+}
+
+.properties{
+	height: 150px;
+}
+
+.relativeInfo{
+	height: 400px;
+}
+
+.mapsNMedia{
+	height: 400px;
+}
+
+div{ 
+	border: 1px solid black;
+}
